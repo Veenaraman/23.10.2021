@@ -6,5 +6,9 @@ public static void main(String[] args) {
 	System.out.println("ghjkj");
 	System.out.println("juhwfhejf");
 	System.out.println("lkijyhgf");
+	System.out.println("priyaaaa");
+	System.out.println("priya");
+
+	
 }
 }
